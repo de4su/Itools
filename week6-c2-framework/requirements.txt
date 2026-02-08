@@ -1,0 +1,2 @@
+# No additional Python dependencies required
+# Uses standard library modules: socket, threading, subprocess
