@@ -1,4 +1,3 @@
-# Cybersecurity Internship Portfolio
 
 A collection of cybersecurity tools and demonstrations developed during a 6-week internship program covering networking, cryptography, web vulnerabilities, network forensics, penetration testing, and red team operations.
 
