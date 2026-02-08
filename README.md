@@ -1,7 +1,5 @@
 # Cybersecurity Internship Portfolio
 
-Intern Reference ID: ICP-DQ31C3-2025
-
 A collection of cybersecurity tools and demonstrations developed during a 6-week internship program covering networking, cryptography, web vulnerabilities, network forensics, penetration testing, and red team operations.
 
 ## Legal Notice
@@ -56,4 +54,3 @@ These tools demonstrate common attack vectors for educational purposes. Understa
 ## Author
 
 GitHub: de4su
-Intern Reference: ICP-DQ31C3-2025
